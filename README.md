@@ -1,3 +1,12 @@
+### Data
+
+Create default data folder
+```commandline
+mkdir data
+```
+
+Put **cheaters.db**, **client.csv** and **server.csv** into data folder.
+
 ### Run
 
 ```commandline
