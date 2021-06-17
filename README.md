@@ -19,3 +19,5 @@ python main.py --date "2021-02-06"
 mprof run python main.py --date "2021-02-06"
 mprof plot
 ```
+
+![](memory_usage.png)
